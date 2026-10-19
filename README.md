@@ -1,2 +1,2 @@
 # AAC
-Augmentative and Alternative Communication
+Augmentative and Alternative Communication device files
